@@ -4,5 +4,4 @@ typically used in the computing industry. i can see why a proficiency in git is 
 
 looking forward to learning more about software engineering philosophy and getting started on our projects!
 
-hope you're having a great week,
-drew ross the computer boss 🤖
+hope you're having a great week,<br>drew ross the computer boss 🤖
